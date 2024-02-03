@@ -21,7 +21,14 @@ Requisitos previos:
 
     - ¡Listo, disfruta de la vista de la APP!
 
-https://postimg.cc/gallery/324XDW6
+
+A continuación, tendremos algunas capturas de pantalla de la aplicación Porsche funcionando en un dispositivo móvil:
+[![Screenshot-2024-02-02-23-29-20-343-host-exp-exponent.jpg](https://i.postimg.cc/3RcSBjhc/Screenshot-2024-02-02-23-29-20-343-host-exp-exponent.jpg)](https://postimg.cc/Hcb9WyVw)
+[![Screenshot-2024-02-02-23-29-24-596-host-exp-exponent.jpg](https://i.postimg.cc/KcdFcBTf/Screenshot-2024-02-02-23-29-24-596-host-exp-exponent.jpg)](https://postimg.cc/Hj4FBJB8)
+[![Screenshot-2024-02-02-23-29-35-657-host-exp-exponent.jpg](https://i.postimg.cc/jSTbPTZJ/Screenshot-2024-02-02-23-29-35-657-host-exp-exponent.jpg)](https://postimg.cc/zVx6YsmJ)
+[![Screenshot-2024-02-02-23-29-40-482-host-exp-exponent.jpg](https://i.postimg.cc/JzQWQF2Y/Screenshot-2024-02-02-23-29-40-482-host-exp-exponent.jpg)](https://postimg.cc/Snj5Sgqc)
+[![Screenshot-2024-02-02-23-29-43-811-host-exp-exponent.jpg](https://i.postimg.cc/CLk0R5Hg/Screenshot-2024-02-02-23-29-43-811-host-exp-exponent.jpg)](https://postimg.cc/0bkF38BW)
+
 
 Alumno: Rayas Alvarado Juan Fernando <br>
 Asesor: Vara Chacon Pedro Said
