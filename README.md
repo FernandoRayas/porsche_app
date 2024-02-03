@@ -21,5 +21,7 @@ Requisitos previos:
 
     - ¡Listo, disfruta de la vista de la APP!
 
+https://postimg.cc/gallery/324XDW6
+
 Alumno: Rayas Alvarado Juan Fernando <br>
 Asesor: Vara Chacon Pedro Said
