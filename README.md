@@ -13,9 +13,9 @@ Requisitos previos:
 
 ### Principalmente:
 
-    - Para poder instalar correctamente las dependencias y node modules necesarios usar: npm install
+    - Para poder instalar correctamente las dependencias y node modules necesarios usar: npm install --force
 
-    - Para correr la aplicación usar el comando: npx expo start --tunnel (Necesario tener instalado anteriormente expo)
+    - Para correr la aplicación usar el comando: npx expo start --tunnel (Necesario tener instalado anteriormente expo y escanear el código qr si se desea abrir en expo go)
 
         - En caso de no tener el expo instalarlo con el siguiente comando: npm install -g expo-cli exp
 
